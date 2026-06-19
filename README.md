@@ -13,7 +13,7 @@
 
 ![PCB Top](https://github.com/AviatorRoyal/Project-SneakyLink/blob/main/harware/pcb/RevA/Images/Top.png)
 
-![PCB Bottom](https://github.com/AviatorRoyal/Project-SneakyLink/blob/main/harware/pcb/RevA/Images/Top.png)
+![PCB Bottom](https://github.com/AviatorRoyal/Project-SneakyLink/blob/main/harware/pcb/RevA/Images/Bottom.png)
 
 ---
 
